@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>index.jsp - juyoung_home</h1>
+	<h3>branch 에서 변경한 내용/h3>
 </body>
 </html>
